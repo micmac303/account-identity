@@ -1,0 +1,7 @@
+# accountidentity
+
+## Package
+```
+./gradlew distZip
+```
+
