@@ -24,7 +24,7 @@ kotlin {
 }
 
 application {
-    mainClass = "com.example.accountidentityKt"
+    mainClass = "com.example.MainKt"
 }
 
 repositories {
